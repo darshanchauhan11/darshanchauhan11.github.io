@@ -57,6 +57,11 @@ ul li::before {
   color: #00ff00;
 }
 
+ul li::before {
+  content: "> ";
+  color: #00ff00;
+}
+
 .proj {
   margin-bottom: 25px;
   pad
